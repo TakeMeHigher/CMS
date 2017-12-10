@@ -1,0 +1,40 @@
+/**头**/
+.navbar {
+    background-color: #2aabd2;
+    height: 70px;
+}
+
+#navbar-user-nickname {
+    font-size: 24px;
+    margin-top: 16px;
+    margin-left: 20px;
+}
+
+#navList {
+    padding-right: 140px;
+    margin-top: 25px;
+
+}
+
+#navList li a {
+    color: white;
+}
+
+#navList li a:hover{
+    background: none;
+    font-size: 18px;
+}
+
+#main {
+    margin-top: 70px;
+
+}
+
+
+/**左侧菜单*/
+
+#author_avatar{
+    width: 75px;
+    height: 75px;
+    border-radius: 100px;
+}
